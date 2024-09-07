@@ -11,9 +11,9 @@ This Flutter app showcases various animations and UX improvements to enhance use
 - **Smooth Transitions**: Implements smooth screen transitions using `PageRouteBuilder` and `Hero` animations 🚀
 - **Responsive UI**: Adapts to different screen sizes and orientations 📱
 
-<!-- ## Screenshots And Videos 📸
+## Screenshots And Videos 📸
 
- <img src="https://github.com/WaleedTaj/implementing_sharedpreferences/blob/master/assets/Screenshot_1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/implementing_sharedpreferences/blob/master/assets/Screenshot_2.png" width="200"/> <img src="https://github.com/WaleedTaj/implementing_sharedpreferences/blob/master/assets/Screenshot_3.png" width="200"/> <img src="https://github.com/WaleedTaj/implementing_sharedpreferences/blob/master/assets/Screenshot_4.png" width="200"/> <img src="https://github.com/WaleedTaj/implementing_sharedpreferences/blob/master/assets/Screenshot_5.png" width="200"/> -->
+ <img src="https://github.com/WaleedTaj/basic_animations/blob/master/assets/Screenshot_1.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/basic_animations/blob/master/assets/Screenshot_2.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/basic_animations/blob/master/assets/Screenshot_3.jpeg" width="200"/>
 
 ### Installation
 
